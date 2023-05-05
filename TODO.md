@@ -1,2 +1,4 @@
 - [Toshio Iwai: Electroplankton]([url](https://en.wikipedia.org/wiki/Electroplankton))
+- [Leon Theremin: Theremin]([url](https://en.wikipedia.org/wiki/Theremin))
+- [Bernard Szajner or Geoffrey Rose: Laser Harp + popularized by Jean-Michel Jarre]([url](https://en.wikipedia.org/wiki/Laser_harp))
 - https://www.are.na/dennis-p-paul/new-musical-instrument
