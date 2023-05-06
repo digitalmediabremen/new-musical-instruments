@@ -2,3 +2,4 @@
 - [Leon Theremin: Theremin]([url](https://en.wikipedia.org/wiki/Theremin))
 - [Bernard Szajner or Geoffrey Rose: Laser Harp]([url](https://en.wikipedia.org/wiki/Laser_harp)) ( popularized by Jean-Michel Jarre )
 - https://www.are.na/dennis-p-paul/new-musical-instrument
+- Monome: Norns https://monome.org/docs/norns/
