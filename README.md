@@ -22,3 +22,11 @@ with studio quality sound and the flexibility to make music on the go. affordabl
 - COMMENT: "the Pocket Operator (PO) series is a series of pocket calculator style musical instruments. while the principal and the interaction design is not extremly novel ( basically a 16-step sequencer ) the individual and indosyncratic implementations are profoundly impressive ( the screen design alone is well worth noticing ). POs are quite easy not get started with but often offer quite some depth to explore. the units can also be synced with each other or with other systems via a repurposed audio signal ( e.g to an modular setup )."
 - LINK: https://teenage.engineering/products/po
 - ADDED: 2023-05-05
+
+## Toshio Iwai: Electroplankton ( エレクトロプランクトン )
+
+![Electroplankton Cover](https://upload.wikimedia.org/wikipedia/en/d/d3/Electroplankton.jpg)
+
+- COMMENT: "Electroplankton is a series of 10 *small* sound-based games that allow to produce sounds or musical compositions through idosyncratic interaction concepts. It was first released as commercial game for the Nintendo DS handheld console in 2005. What fascinated me about the game was the on the one hand very playful as well as beautiful game design and on the other hand the hint towards alternative ways of thinking about *composing* music and sounds; some games use physics-based models ( e.g fish bouncing of leaves ) while others use visual structures ( e.g grid of arrows directing sounds ). in a way i consider this game to be the pioneer of a whole field of audio-visual music videogames. PS the [manual]([url](https://www.nintendo.com/consumer/gameslist/manuals/DS_Electroplankton.pdf)) is very interesting, too."
+- LINK: https://en.wikipedia.org/wiki/Electroplankton
+- ADDED: 2023-05-08
