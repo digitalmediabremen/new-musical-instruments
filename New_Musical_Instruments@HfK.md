@@ -1,0 +1,23 @@
+# New Musical Instruments @ HfK
+
+- [David Unland: SUPER MUSCLE](https://digitalmedia-bremen.de/project/super-muscle/) #WS2020-21
+- [Joris Wegner: Death Sequencer](https://digitalmedia-bremen.de/project/death-sequencer/) #WS2019-20
+- [Timon Bohn: Erwachte Synthese](https://digitalmedia-bremen.de/project/erwachte-synthese/) #WS2018-19
+- [Niko Haberer: Everybody Dance Now!](https://digitalmedia-bremen.de/project/everybody-dance-now/) #WS2018-19
+- [Lukas Leck: Electropercussive Drum (epd1)](https://digitalmedia-bremen.de/project/electropercussive-drum-epd1/) #SS2018
+- [Felix Fisgus: Fizzi](https://digitalmedia-bremen.de/project/fizzi/) #SS2018
+- [The Analog Knocking Quintet: Kevin Mendzies](https://digitalmedia-bremen.de/project/analog-knocking-quintet/) #WS2015-16 #ComputationAndMusic
+- [Bojana Petkovic: Swamp orchestra](https://digitalmedia-bremen.de/project/swamp-orchestra/) #WS2015-16
+- [Dustin Sherman: PILLARSEQUENCER](https://digitalmedia-bremen.de/project/pillarsequencer/) #WS2015-16 #ComputationAndMusic
+- [Christine Brovkina: LDR Grid MIDI Controller](https://digitalmedia-bremen.de/project/ldr-grid-midi-controller/) #WS2015-16 #ComputationAndMusic
+- [Guida Ribeiro: Horse Rotorvator](https://digitalmedia-bremen.de/project/horse-rotorvator/) #WS2015-16 #ComputationAndMusic
+- [Felix Fisgus: gammaphon](https://digitalmedia-bremen.de/project/gammaphon/) #WS2015-16 #ComputationAndMusic
+- [Claudia Becker: Heart – Beat – Guitar](https://digitalmedia-bremen.de/project/heart-beat-guitar/) #WS2015-16
+- [David Beermann + Hendrik Heuer + Irena Kukric + Julian Hespenheide + Thomas Hoheisel: Automatic Orchestra](https://digitalmedia-bremen.de/project/automatic-orchestra/) #WS2014-15
+- [David Beermann: Sirens](https://digitalmedia-bremen.de/project/sirens/) #SS2014
+- [Florian Born: Modulares Interface](https://digitalmedia-bremen.de/project/modulares-interface/) #WS2012-13
+- [Michael Berndt: DF-I](https://digitalmedia-bremen.de/project/df-i/) #SS2012
+- [Peter Buczkowski: Random by Nature](https://digitalmedia-bremen.de/project/random-by-nature/) #SS2012
+- [Rasmus Rienecker: Melancholy Helmet](https://digitalmedia-bremen.de/student/rasmus-rienecker/) #SS2011
+- [Pedro Oliveira: iShuffle](https://digitalmedia-bremen.de/project/ishuffle/) #SS2010
+- [Florian Biermann: World to (H)ear](https://digitalmedia-bremen.de/project/world-to-hear/) #WS2009-10
