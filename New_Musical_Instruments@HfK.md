@@ -1,6 +1,7 @@
 # New Musical Instruments @ HfK
 
 - [Icaro Lopez de Mesa Moyano + Victor Artiga Rodriguez: The Paradoxical Myth of the Crazed Jaguar and Nene del Solar](https://digitalmedia-bremen.de/project/the-paradoxical-myth-of-the-crazed-jaguar-and-nene-del-solar/) #SS2022
+- [Lennart Ulrich: Concrete Jungle – A Hardware Sampler for the Embedded World](https://digitalmedia-bremen.de/project/concrete-jungle-a-hardware-sampler-for-the-embedded-world) #SS2020
 - [David Unland: SUPER MUSCLE](https://digitalmedia-bremen.de/project/super-muscle/) #WS2020-21
 - [Joris Wegner: Death Sequencer](https://digitalmedia-bremen.de/project/death-sequencer/) #WS2019-20
 - [Timon Bohn: Erwachte Synthese](https://digitalmedia-bremen.de/project/erwachte-synthese/) #WS2018-19
