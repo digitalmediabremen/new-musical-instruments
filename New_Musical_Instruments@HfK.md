@@ -19,6 +19,6 @@
 - [Florian Born: Modulares Interface](https://digitalmedia-bremen.de/project/modulares-interface/) #WS2012-13
 - [Michael Berndt: DF-I](https://digitalmedia-bremen.de/project/df-i/) #SS2012
 - [Peter Buczkowski: Random by Nature](https://digitalmedia-bremen.de/project/random-by-nature/) #SS2012
-- [Rasmus Rienecker: Melancholy Helmet](https://digitalmedia-bremen.de/student/rasmus-rienecker/) #SS2011
+- [Rasmus Rienecker: Melancholy Helmet](https://digitalmedia-bremen.de/project/melancholy-helmet/) #SS2011
 - [Pedro Oliveira: iShuffle](https://digitalmedia-bremen.de/project/ishuffle/) #SS2010
 - [Florian Biermann: World to (H)ear](https://digitalmedia-bremen.de/project/world-to-hear/) #WS2009-10
